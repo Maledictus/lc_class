@@ -1,4 +1,4 @@
-project(lc_class)
+project (lc_class)
 
 find_package(KDE4 REQUIRED)
 find_package(KDevPlatform REQUIRED)

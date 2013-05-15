@@ -1,7 +1,7 @@
 [General]
-Name=lc_class
-Comment=lc_class
-Category=C++
+Name=Class for LeechCraft
+Comment=Class for LeechCraft without interfaces
+Category=C++/LeechCraft
 Files=Header,Implementation
 
 [Header]
@@ -13,4 +13,4 @@ OutputFile={{ name }}.h
 Name=Implementation
 File=class.cpp
 OutputFile={{ name }}.cpp
- 
+
